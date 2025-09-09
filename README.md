@@ -30,11 +30,3 @@ flutter pub get
 flutter run
 ```
 
-## Screenshot
-![App em execução](assets/screenshots/screenshot1.png)
-
-## Vídeo (demonstração)
-- Link do vídeo: https://youtu.be/SEU_VIDEO
-
-## LICENSE
-Licenciado sob MIT — ver `LICENSE.md`.
